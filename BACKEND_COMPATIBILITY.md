@@ -1,4 +1,7 @@
 # Backend compatibility
+
+**Odoo version:** 18.0 (FMS Python addons in `fmss` / `blu_fms_backend`).
+
 Do not change model/method names or action tags without matching backend changes.
 
 ## Client actions & systray
